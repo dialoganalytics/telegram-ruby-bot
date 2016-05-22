@@ -1,6 +1,6 @@
 # Telegram Ruby Bot
 
-An example telegram ruby bot. Built with [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby).
+An example telegram ruby bot with [Dialog Analytics](https://dialoganalytics.com) integration. Built with [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby).
 
 
 ## Getting started
