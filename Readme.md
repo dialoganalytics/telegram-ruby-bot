@@ -9,6 +9,7 @@ Configure the bot with your credentials in `.env`:
 
 ```
 TELEGRAM_TOKEN=...
+DIALOG_TOKEN=...
 ```
 
 Start the bot:
