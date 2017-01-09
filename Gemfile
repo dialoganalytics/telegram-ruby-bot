@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'telegram-bot-ruby'
 gem 'dotenv'
-gem 'http'
+gem 'telegram-bot-ruby'
+
+gem 'dialog-api', '>=0.0.5'
