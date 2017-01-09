@@ -79,8 +79,7 @@ client = Dialog.new({
   bot_id: ENV.fetch('DIALOG_BOT_ID'),
   on_error: Proc.new do |status, message, detail|
     p [status, message, detail]
-  end,
-  debug: true
+  end
 })
 
 # Create a Dialog tracking helper
