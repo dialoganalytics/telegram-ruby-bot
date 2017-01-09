@@ -3,8 +3,6 @@ Dotenv.load
 
 require 'active_support/core_ext/hash'
 
-require 'pry'
-
 # Example interface to facilitate sending messages to the Dialog API.
 require 'dialog-api'
 require 'telegram/bot'
